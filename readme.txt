@@ -10,3 +10,5 @@ Creating a new branch is quick AND simple.
 new
 
 main : 1
+
+我使用bug101分支解决了我的bug
